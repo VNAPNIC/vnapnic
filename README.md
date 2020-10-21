@@ -13,7 +13,7 @@ I like writing about tech related stuff, educating colleagues and other devs abo
 
 ![](https://github-readme-stats.vercel.app/api?username=vnapnic&show_icons=true&icon_color=4B8EDF&text_color=5C6998&bg_color=ffffff&hide_title=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnapnic) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnapnic&layout=compact) 
 
 
 <!--

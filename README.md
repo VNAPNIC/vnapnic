@@ -1,5 +1,5 @@
-### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
+## Visitors Count
+<img height="30px" src = "https://profile-counter.glitch.me/TheAlphamerc/count.svg" alt ="Loading">
 
 ### Nice to meet you 👋 
 I am Nankai, currently working as a Senior Mobile Developer. I love learning new stuff, I love teaching it even more.

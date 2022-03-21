@@ -1,5 +1,5 @@
 ### Nice to meet you 👋 
-I am Nankai, currently working as a Senior Mobile Developer. I love learning new stuff, I love teaching it even more.
+I am Nankai, currently working as a Fullstack Developer. I love learning new stuff, I love teaching it even more.
 I like writing about tech related stuff, educating colleagues and other devs about best practices and cleaner code. Also I like building things. Hit me up with any idea you have.
 
 - 🔭 I’m currently working on Developing a course for Flutter

@@ -19,7 +19,6 @@ I like writing about tech related stuff, educating colleagues and other devs abo
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnapnic&layout=compact) 
 
-
 <!--
 **VNAPNIC/nankai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

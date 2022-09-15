@@ -8,7 +8,7 @@ I like writing about tech related stuff, educating colleagues and other devs abo
 - 🌱 I’m currently learning about the schematics of multiple technologies
 - 👯 I’m looking to collaborate on anything that is fun and challenging
 - 🤔 I’m looking for help with... Nah, I'm looking for helping you.
-- 💬 Ask me about Android, IOS, Flutter, Dart, Kotlin, Java, Swift, Golang
+- 💬 Ask me about Android, IOS, Flutter, Dart, Kotlin, Java, Swift, Golang, C++, Solidity, Rust
 - 📫 How to reach me: [Github](https://github.com/VNAPNIC)
 - 😄 Pronouns: VNAPNIC
 - ⚡ Fun fact: Things look easy when you see me doing them.
